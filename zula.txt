@@ -1,4 +1,8 @@
 hello2
 hello kushal
 
+<<<<<<< HEAD
 hello i am on desktop
+=======
+hello i am on web
+>>>>>>> 48f0ceab2a951ab9d218faa9c9791134603c4f86
