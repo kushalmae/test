@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello2
-=======
-hello
->>>>>>> zula
+hello kushal
+
